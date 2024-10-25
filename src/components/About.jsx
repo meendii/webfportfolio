@@ -7,7 +7,7 @@ import ReactLogo from '../assets/React.png'
 import ReduxLogo from '../assets/Redux.png'
 import Tailwind from '../assets/Tailwind Css.png'
 import Bootstrap from '../assets/Bootstrap.png'
-import Nodejs from '../assets/Nodejs.png'
+import NodeLogo from '../assets/NodeLogo.png'
 import Mongodb from '../assets/mongodb.svg'
 import Express from '../assets/Express.png'
 import NextJs from '../assets/NextJs.png'
@@ -65,7 +65,7 @@ const About = () => {
                                         <span className='font-semibold'>Bootstrap</span>
                                     </div>
                                     <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
-                                        <img src={Nodejs} alt="" className='w-10' />
+                                        <img src={NodeLogo} alt="" className='w-10' />
                                         <span className='font-semibold'>Node Js</span>
                                     </div>
                                     <div className='border border-red-300 flex items-center  w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
